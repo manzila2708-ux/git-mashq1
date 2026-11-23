@@ -1,1 +1,1 @@
-print ("salo")
+print ("salom hayot")
